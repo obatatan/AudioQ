@@ -1,0 +1,15 @@
+D:\source\local\AudioQ\AudioQ\bin\Release\readme.txt
+D:\source\local\AudioQ\AudioQ\bin\Release\AudioQ.exe.config
+D:\source\local\AudioQ\AudioQ\bin\Release\AudioQ.exe
+D:\source\local\AudioQ\AudioQ\bin\Release\AudioQ.pdb
+D:\source\local\AudioQ\AudioQ\bin\Release\AxInterop.WMPLib.dll
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.csprojAssemblyReference.cache
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.FileListForm.resources
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.PlayMusicForm.resources
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.Properties.Resources.resources
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.Questionary.resources
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.csproj.GenerateResource.cache
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.csproj.CoreCompileInputs.cache
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.csproj.CopyComplete
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.exe
+D:\source\local\AudioQ\AudioQ\obj\Release\AudioQ.pdb
